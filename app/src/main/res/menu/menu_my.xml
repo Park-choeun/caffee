@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/GoSearch"
+        android:onClick="onMenuItemClick"
+        android:title="Search Cafe" />
+    <item
+        android:id="@+id/GoWishList"
+        android:onClick="onMenuItemClick"
+        android:title="WishList" />
+    <item
+        android:id="@+id/exit"
+        android:onClick="onMenuItemClick"
+        android:title="Exit" />
+</menu>
