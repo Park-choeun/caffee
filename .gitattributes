@@ -1,2 +1,0 @@
-# JS, CSS 감지를 위해 java 파일 일부 제외
-*.java linguist-vendored=true
